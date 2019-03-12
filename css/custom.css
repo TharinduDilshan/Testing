@@ -142,3 +142,31 @@
 .project_single_slider #carousel .custom-navigation .flex-prev{
 	color: #00aced;
 }
+
+.banner_inner_text ul li:hover a, .banner_inner_text ul li.active a{
+	color: #00aced;
+}
+
+.project_single_slider #carousel ul li.flex-active-slide:before{
+	border: 4px solid #00aced;
+}
+
+.main_b_title h6{
+	color: #00aced;
+}
+
+.chose_text_inner ul {
+	border-bottom: 1px solid #00aced;
+}
+
+.navbar-toggle{
+	border: 1px solid #00aced !important;
+}
+
+.navbar-toggle .icon-bar{
+	background-color: #00aced !important
+}
+
+.get_quote_area.yellow_get_quote{
+	background: #00aced; 
+}
