@@ -170,3 +170,7 @@
 .get_quote_area.yellow_get_quote{
 	background: #00aced; 
 }
+
+.main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .secand_text{
+	color: #00aced;
+}
